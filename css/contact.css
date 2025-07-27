@@ -1,0 +1,89 @@
+.contact-container {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+    min-height: calc(100vh - 70px);
+}
+
+.contact-content {
+    background: #fff;
+    border-radius: 12px;
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 800px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    padding-bottom: 60px;  /* 增加内容区域底部间距 */
+}
+
+.section-title {
+    font-size: 24px;
+    color: #01436B;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section-title .iconfont {
+    font-size: 24px;
+}
+
+.recruit-text {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 40px;
+}
+
+.recruit-text p {
+   text-indent: 2em;
+}
+
+.contact-info {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid #eee;
+    margin-bottom: 70px;  /* 添加底部间距 */
+}
+
+.contact-list {
+    padding: 10px 0;  /* 减小整体内边距 */
+}
+
+.contact-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: -30px;  /* 增加列表项之间的间距 */
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;  /* 稍微减小行高 */
+}
+
+.contact-list li:last-child {
+    margin-bottom: 0;
+}
+
+.contact-list .iconfont {
+    color: #01436B;
+    font-size: 18px;
+    margin-right: 15px;
+    margin-top: 2px;  /* 微调图标位置 */
+    flex-shrink: 0;
+}
+
+.contact-text {
+    flex: 1;
+    padding-top: 2px;  /* 微调文本位置 */
+}
+
+.news-title {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.news-title .iconfont {
+    color: #01436B;
+}
