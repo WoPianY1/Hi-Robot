@@ -1,0 +1,44 @@
+{
+  "id": "4983616",
+  "name": "实验室主页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20970643",
+      "name": "三箭头",
+      "font_class": "youjiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "23412581",
+      "name": "rarrow3",
+      "font_class": "rarrow3",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "25879759",
+      "name": "三箭头",
+      "font_class": "sanjiantou",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "35693370",
+      "name": "三箭头",
+      "font_class": "sanjiantou1",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "39594840",
+      "name": "智能机器人",
+      "font_class": "a-zhinengjiqirenjiqiren",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}
